@@ -81,7 +81,7 @@ function App() {
       <section
         className="relative min-h-[450px] px-6 py-20 text-center bg-cover bg-center flex flex-col items-center justify-center"
         style={{
-          backgroundImage: "url('/images/hero.jpg')",
+          backgroundImage: "url('/celebrare-gallery/images/hero.jpg')",
         }}
       >
         <div className="absolute inset-0 bg-black/40"></div>
